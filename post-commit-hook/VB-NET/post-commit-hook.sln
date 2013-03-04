@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-NET", "VB-NET.vbproj", "{6A1E5A48-5C28-42E4-BFEB-DAE1A55915CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp", "..\C-Sharp\C-Sharp.csproj", "{39C657CF-F9CA-482B-BFEF-01063E4E05D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1E5A48-5C28-42E4-BFEB-DAE1A55915CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1E5A48-5C28-42E4-BFEB-DAE1A55915CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1E5A48-5C28-42E4-BFEB-DAE1A55915CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1E5A48-5C28-42E4-BFEB-DAE1A55915CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C657CF-F9CA-482B-BFEF-01063E4E05D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C657CF-F9CA-482B-BFEF-01063E4E05D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C657CF-F9CA-482B-BFEF-01063E4E05D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C657CF-F9CA-482B-BFEF-01063E4E05D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = ..
+	EndGlobalSection
+EndGlobal
